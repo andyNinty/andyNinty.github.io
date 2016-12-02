@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Andy&#39;s blog</title>
+  <subtitle>Do whatever you want</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-12-02T05:19:11.871Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>andy.lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android studio 代理配置</title>
+    <link href="http://yoursite.com/2016/12/02/Android-studio-%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2016/12/02/Android-studio-代理配置/</id>
+    <published>2016-12-02T03:28:33.000Z</published>
+    <updated>2016-12-02T05:19:11.871Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;&amp;#x914D;&amp;#x7F6E;&amp;#x4EE3;&amp;#x7406;&quot;&gt;&lt;a href=&quot;#&amp;#x914D;&amp;#x7F6E;&amp;#x4EE3;&amp;#x7406;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x914D;&amp;#x7F6E;&amp;#x4EE3;&amp;#x7406;&quot;&gt;&lt;/a&gt;&amp;#x914D;&amp;#x7F6E;&amp;#x4EE3;&amp;#x7406;&lt;/h1&gt;&lt;h2 id=&quot;1&amp;#x3001;&amp;#x8FDB;&amp;#x5165;&amp;#x8BBE;&amp;#x7F6E;&amp;#x754C;&amp;#x9762;&quot;&gt;&lt;a href=&quot;#1&amp;#x3001;&amp;#x8FDB;&amp;#x5165;&amp;#x8BBE;&amp;#x7F6E;&amp;#x754C;&amp;#x9762;&quot; class=&quot;headerlink&quot; title=&quot;1&amp;#x3001;&amp;#x8FDB;&amp;#x5165;&amp;#x8BBE;&amp;#x7F6E;&amp;#x754C;&amp;#x9762;&quot;&gt;&lt;/a&gt;1&amp;#x3001;&amp;#x8FDB;&amp;#x5165;&amp;#x8BBE;&amp;#x7F6E;&amp;#x754C;&amp;#x9762;&lt;/h2&gt;&lt;p&gt;android studio&amp;#x8BBE;&amp;#x7F6E;&amp;#x6309;&amp;#x94AE;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="android" scheme="http://yoursite.com/categories/android/"/>
+    
+    
+      <category term="android studio" scheme="http://yoursite.com/tags/android-studio/"/>
+    
+  </entry>
+  
+</feed>
