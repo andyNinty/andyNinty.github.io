@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-02T05:19:11.871Z</updated>
+  <updated>2016-12-03T07:54:38.243Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>手把手教你搭建自己的博客(github pages+ hexo+ 绑定域名)</title>
+    <link href="http://yoursite.com/2016/12/03/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2-github-pages-hexo-%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
+    <id>http://yoursite.com/2016/12/03/手把手教你搭建自己的博客-github-pages-hexo-绑定域名/</id>
+    <published>2016-12-03T06:54:47.000Z</published>
+    <updated>2016-12-03T07:54:38.243Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;&amp;#x524D;&amp;#x8A00;&quot;&gt;&lt;a href=&quot;#&amp;#x524D;&amp;#x8A00;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x524D;&amp;#x8A00;&quot;&gt;&lt;/a&gt;&amp;#x524D;&amp;#x8A00;&lt;/h1&gt;&lt;p&gt;&amp;#x6700;&amp;#x8FD1;&amp;#x5728;&amp;#x5B66;&amp;#x4E60;&amp;#x642D;&amp;#x5EFA;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;,&amp;#x4E8E;&amp;#x662F;&amp;#x7F51;&amp;#x4E0A;&amp;#x67E5;&amp;#x627E;&amp;#x8D44;&amp;#x6599;,&amp;#x53D1;&amp;#x73B0;github pages+hexo&amp;#x8FD8;&amp;#x4E0D;&amp;#x9519;,&amp;#x4E8E;&amp;#x662F;&amp;#x52A8;&amp;#x624B;&amp;#x53BB;&amp;#x505A;,&amp;#x524D;&amp;#x9636;&amp;#x6BB5;&amp;#x5728;&amp;#x90FD;&amp;#x987A;&amp;#x5229;&amp;#x7684;&amp;#x4E00;&amp;#x7C73;,&amp;#x540E;&amp;#x9762;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&amp;#x7684;&amp;#x65F6;&amp;#x5019;&amp;#x9047;&amp;#x5230;&amp;#x4E86;&amp;#x5F88;&amp;#x591A;&amp;#x5751;,&amp;#x4E8E;&amp;#x662F;&amp;#x7F51;&amp;#x4E0A;&amp;#x67E5;&amp;#x627E;&amp;#x8D44;&amp;#x6599;,&amp;#x5927;&amp;#x591A;&amp;#x8BF4;&amp;#x90FD;&amp;#x662F;&amp;#x5DEE;&amp;#x4E0D;&amp;#x591A;&amp;#x7684;,&amp;#x6CA1;&amp;#x6709;&amp;#x5199;&amp;#x5230;&amp;#x6211;&amp;#x6240;&amp;#x5173;&amp;#x6CE8;&amp;#x7684;&amp;#x7EC6;&amp;#x8282;.&amp;#x4E8E;&amp;#x662F;&amp;#x6709;&amp;#x4E86;&amp;#x8FD9;&amp;#x7BC7;&amp;#x535A;&amp;#x5BA2;,&amp;#x5E0C;&amp;#x671B;&amp;#x5927;&amp;#x5BB6;&amp;#x5C11;&amp;#x8D70;&amp;#x5F2F;&amp;#x8DEF;.&lt;/p&gt;
+&lt;h2 id=&quot;HEXO-Github-&amp;#x642D;&amp;#x5EFA;&amp;#x535A;&amp;#x5BA2;&quot;&gt;&lt;a href=&quot;#HEXO-Github-&amp;#x642D;&amp;#x5EFA;&amp;#x535A;&amp;#x5BA2;&quot; class=&quot;headerlink&quot; title=&quot;HEXO+Github &amp;#x642D;&amp;#x5EFA;&amp;#x535A;&amp;#x5BA2;&quot;&gt;&lt;/a&gt;HEXO+Github &amp;#x642D;&amp;#x5EFA;&amp;#x535A;&amp;#x5BA2;&lt;/h2&gt;&lt;p&gt;&amp;#x8FD9;&amp;#x90E8;&amp;#x5206;&amp;#x7F51;&amp;#x4E0A;&amp;#x8D44;&amp;#x6599;&amp;#x5F88;&amp;#x591A;,&amp;#x5927;&amp;#x90E8;&amp;#x5206;&amp;#x4E5F;&amp;#x90FD;&amp;#x8BB2;&amp;#x7684;&amp;#x5F88;&amp;#x6E05;&amp;#x6670;,&amp;#x8FD9;&amp;#x91CC;&amp;#x6211;&amp;#x5C31;&amp;#x505A;&amp;#x642C;&amp;#x8FD0;&amp;#x5DE5;,&amp;#x53EF;&amp;#x4EE5;&amp;#x67E5;&amp;#x770B;&lt;a href=&quot;http://www.jianshu.com/p/465830080ea9&quot;&gt;HEXO+Github,&amp;#x642D;&amp;#x5EFA;&amp;#x5C5E;&amp;#x4E8E;&amp;#x81EA;&amp;#x5DF1;&amp;#x7684;&amp;#x535A;&amp;#x5BA2;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#x8FD9;&amp;#x7BC7;&amp;#x6587;&amp;#x7AE0;,&amp;#x5177;&amp;#x4F53;&amp;#x6211;&amp;#x5C31;&amp;#x4E0D;&amp;#x5728;&amp;#x8D58;&amp;#x8FF0;.&amp;#x4E3B;&amp;#x8981;&amp;#x8BB0;&amp;#x5F55;&amp;#x4E00;&amp;#x4E0B;&amp;#x7ED1;&amp;#x5B9A;&amp;#x57DF;&amp;#x540D;&amp;#x65F6;&amp;#x5019;&amp;#x9047;&amp;#x5230;&amp;#x7684;&amp;#x5751;.&lt;/p&gt;
+&lt;h2 id=&quot;&amp;#x57DF;&amp;#x540D;&amp;#x7ED1;&amp;#x5B9A;&quot;&gt;&lt;a href=&quot;#&amp;#x57DF;&amp;#x540D;&amp;#x7ED1;&amp;#x5B9A;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x57DF;&amp;#x540D;&amp;#x7ED1;&amp;#x5B9A;&quot;&gt;&lt;/a&gt;&amp;#x57DF;&amp;#x540D;&amp;#x7ED1;&amp;#x5B9A;&lt;/h2&gt;&lt;h3 id=&quot;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;a href=&quot;#&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&quot;&gt;&lt;/a&gt;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;&lt;/h3&gt;&lt;p&gt;&amp;#x6211;&amp;#x662F;&amp;#x5728;&lt;a href=&quot;https://wanwang.aliyun.com/&quot;&gt;&amp;#x4E07;&amp;#x7F51;&lt;/a&gt;&amp;#x4E0A;&amp;#x9762;&amp;#x8D2D;&amp;#x4E70;&amp;#x7684;&amp;#x57DF;&amp;#x540D;(&amp;#x672C;&amp;#x4EBA;&amp;#x4E70;&amp;#x7684;&amp;#x57DF;&amp;#x540D;&amp;#x662F;&lt;a href=&quot;http://andyleeblog.cn&quot;&gt;http://andyleeblog.cn&lt;/a&gt;), &amp;#x8D2D;&amp;#x4E70;&amp;#x4E4B;&amp;#x540E;&amp;#x8FDB;&amp;#x884C;&amp;#x5B9E;&amp;#x540D;&amp;#x8BA4;&amp;#x8BC1;.&amp;#x4E0B;&amp;#x9762;&amp;#x9488;&amp;#x5BF9;&amp;#x4E07;&amp;#x7F51;&amp;#x4E70;&amp;#x7684;&amp;#x57DF;&amp;#x540D;&amp;#x8FDB;&amp;#x884C;&amp;#x7ED1;&amp;#x5B9A;,&amp;#x82E5;&amp;#x60A8;&amp;#x5728;&amp;#x5176;&amp;#x4ED6;&amp;#x5E73;&amp;#x53F0;&amp;#x4E0A;&amp;#x8D2D;&amp;#x4E70;&amp;#x57DF;&amp;#x540D;,&amp;#x60A8;&amp;#x53EF;&amp;#x4EE5;&amp;#x53BB;&lt;a href=&quot;https://help.github.com/articles/using-a-custom-domain-with-github-pages/&quot;&gt;github pages&lt;/a&gt;&amp;#x67E5;&amp;#x770B;&amp;#x5E2E;&amp;#x52A9;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="其他" scheme="http://yoursite.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github pages" scheme="http://yoursite.com/tags/github-pages/"/>
+    
+  </entry>
   
   <entry>
     <title>Android studio 代理配置</title>
