@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-05T08:17:15.748Z</updated>
+  <updated>2016-12-07T08:55:48.130Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决android toolbar向上滑动时隐藏不完全的问题</title>
+    <link href="http://yoursite.com/2016/12/07/%E8%A7%A3%E5%86%B3android-toolbar%E5%90%91%E4%B8%8A%E6%BB%91%E5%8A%A8%E6%97%B6%E9%9A%90%E8%97%8F%E4%B8%8D%E5%AE%8C%E5%85%A8%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2016/12/07/解决android-toolbar向上滑动时隐藏不完全的问题/</id>
+    <published>2016-12-07T08:18:15.000Z</published>
+    <updated>2016-12-07T08:55:48.130Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;#x5728;&amp;#x65B0;&amp;#x7684;Android Support Library&amp;#x91CC;&amp;#x9762;,&amp;#x65B0;&amp;#x589E;&amp;#x4E86;CoordinatorLayout, AppBarLayout&amp;#x7B49;&amp;#xFF0C;&amp;#
+    
+    </summary>
+    
+      <category term="开发" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="android" scheme="http://yoursite.com/tags/android/"/>
+    
+      <category term="material design" scheme="http://yoursite.com/tags/material-design/"/>
+    
+  </entry>
   
   <entry>
     <title>手把手教你搭建自己的博客(github pages+ hexo+ 绑定域名)</title>
