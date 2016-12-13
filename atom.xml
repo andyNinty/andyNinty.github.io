@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-10T09:08:32.745Z</updated>
+  <updated>2016-12-13T05:35:02.020Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>windows 和 ubuntu下对android app进行抓包</title>
+    <link href="http://yoursite.com/2016/12/13/windows-%E5%92%8C-ubuntu%E4%B8%8B%E5%AF%B9android-app%E8%BF%9B%E8%A1%8C%E6%8A%93%E5%8C%85/"/>
+    <id>http://yoursite.com/2016/12/13/windows-和-ubuntu下对android-app进行抓包/</id>
+    <published>2016-12-13T04:38:41.000Z</published>
+    <updated>2016-12-13T05:35:02.020Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;&amp;#x524D;&amp;#x8A00;&quot;&gt;&lt;a href=&quot;#&amp;#x524D;&amp;#x8A00;&quot; class=&quot;headerlink&quot; title=&quot;&amp;#x524D;&amp;#x8A00;&quot;&gt;&lt;/a&gt;&amp;#x524D;&amp;#x8A00;&lt;/h1&gt;&lt;p&gt;&amp;#x5728;androi
+    
+    </summary>
+    
+    
+      <category term="android" scheme="http://yoursite.com/tags/android/"/>
+    
+  </entry>
   
   <entry>
     <title>Git 常用命令小记</title>
